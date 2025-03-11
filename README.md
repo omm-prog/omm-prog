@@ -23,7 +23,7 @@ Hey there! I'm **Om Chauhan**, a passionate developer diving into **AI/ML, Block
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omm-prog)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#) *(Add your link)*  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#) *(Add your handle)*  
-📧 **Email:** your.email@example.com *(Replace with yours)*
+📧 **Email:** omchauhan2026@gmail.com
 
 ---
 
