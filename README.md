@@ -38,11 +38,11 @@ I specialize in **AI/ML, Blockchain, Flutter, and Cybersecurity**, but mostly, I
 ## 🔥 Cool Add-ons:
 🎯 **Current Mission:** Teaching my AI to laugh at my jokes 🤖😂  
 📊 **GitHub Streak & Stats:**  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=omm-prog&theme=tokyonight" alt="GitHub Streak">  
+<p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=omm-prog&show_icons=true&theme=tokyonight" alt="GitHub Stats">  
 </p>
 🏆 **Most Used Phrase:** "Why isn't this working?!" 😩  
+
 📍 **Location:** Probably fixing a bug… or making a new one 🐛  
 
 ---
