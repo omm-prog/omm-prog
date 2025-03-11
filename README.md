@@ -10,7 +10,7 @@
 - 👯 I’ve worked on **Face Recognition AI, Deep Fake Detection, and Smart Interview Systems**
 - 🌱 I’m currently learning **LLMs, Web3, and Full Stack Development**
 - 💬 Ask me about **AI, ML, Blockchain, and Flutter**
-- 📫 Reach me at **ommchauhan.dev@gmail.com**
+- 📫 Reach me at **ommchauhan2026@gmail.com**
 - ⚡ Fun fact: **I turn coffee into code ☕💻**
 
 <h3 align="left">Connect with me:</h3>
