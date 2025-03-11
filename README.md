@@ -1,8 +1,8 @@
-# 🚀 Om Chauhan
-
 <p align="center">
-  <img src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="400px">
+  <img src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="500px">
 </p>
+
+# 🚀 Om Chauhan
 
 **AI | ML | Blockchain Enthusiast | Flutter Developer | Cybersecurity Learner**
 
