@@ -1,6 +1,8 @@
 # 🚀 Om Chauhan
 
-![MasterHead](https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif width="400px")
+<p align="center">
+  <img src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="400px">
+</p>
 
 **AI | ML | Blockchain Enthusiast | Flutter Developer | Cybersecurity Learner**
 
