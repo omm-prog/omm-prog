@@ -1,63 +1,29 @@
-![MasterHead]([https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=790b7611wlnt4qtsicd3u2fivxe9sm17883ebqalnibp17aw&ep=v1_gifs_search&rid=giphy.gif&ct=g])
+# 🚀 Om Chauhan
 
-<h1 align="center">Om Chauhan 👾</h1>
-<h3 align="center">AI Developer | Cyber Security Enthusiast | Blockchain Innovator</h3>
+![MasterHead](https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif width="400px")
 
----
+**AI | ML | Blockchain Enthusiast | Flutter Developer | Cybersecurity Learner**
 
-### 🚀 About Me:
-🔹 Passionate about **AI/ML, Cybersecurity, and Blockchain.**  
-🔹 Love **building futuristic projects** that make an impact.  
-🔹 Always learning & pushing boundaries.  
+Hey there! I'm **Om Chauhan**, a passionate developer diving into **AI/ML, Blockchain, Flutter, and Cybersecurity**. I love creating cutting-edge solutions that solve real-world problems! 🔥
 
 ---
 
-### 🔥 Tech Stack:
-
-**💻 Languages:** Python, JavaScript, Dart, Solidity, C++  
-**🧠 AI/ML:** TensorFlow, OpenCV, InsightFace, ArcFace  
-**🔥 Cybersecurity:** Kali Linux, Penetration Testing, XAI  
-**⚡ Blockchain:** Smart Contracts, Solidity, Escrow Systems  
-**🌐 Web & App Dev:** Flask, React.js, Flutter, Firebase, MySQL  
-
----
-
-### 🛠️ Projects:
-#### 🚀 Advait AI (Mock Interview System)
-- **Real-time Speech Recognition** (No manual recording)
-- **Facial Expression & Posture Analysis** (InsightFace + ArcFace)
-- **AI-powered Questioning** (Skill-based dynamic questions)
-- **Project & Course Recommendations** (Gemini API)
-
-#### ♻️ Food & Waste Management System
-- **NGO & Donor Role-based System**
-- **Real-time Food Donation Alerts** (Expanding radius logic)
-- **Blockchain-based Donation Campaigns** (Escrow System)
-- **Composting Suggestions for Unclaimed Food**
-
-#### 🛡️ Face-Swap Deepfake Detection
-- **CNN + RNN + LSTM Hybrid Model**
-- **XAI for Transparency in Decision Making**
-- **Adaptive Learning for Real-time Deepfake Detection**
-- **Web-based Dashboard for Analysis**
+## 🛠 Tech Stack:
+- **Languages:** Python, JavaScript, Dart, Solidity, C++
+- **AI/ML:** TensorFlow, OpenCV, InsightFace, ArcFace
+- **Blockchain:** Smart Contracts, Escrow Systems
+- **Web & App Development:** React, Flutter, Flask, Firebase, MySQL
+- **Cybersecurity:** Kali Linux, Penetration Testing, XAI
 
 ---
 
-### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omm-prog&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omm-prog&layout=compact&theme=tokyonight" />
-</p>
+## 📫 Connect with Me:
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omm-prog)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#) *(Add your link)*  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#) *(Add your handle)*  
+📧 **Email:** your.email@example.com *(Replace with yours)*
 
 ---
 
-### 📫 Connect With Me:
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omm-prog) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff4757?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
-
----
-
-**⚡ "Hack the future, build the impossible!" ⚡**
+## ⚡ Fun Fact:
+I turn **coffee ☕ into code 💻** and debug life one bug at a time! 😆
