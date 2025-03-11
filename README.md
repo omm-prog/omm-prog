@@ -1,54 +1,63 @@
-### Hi there, I'm Om Chauhan! 👋
+![MasterHead](https://source.unsplash.com/1600x500/?cyberpunk,technology)
 
-![MasterHead](https://source.unsplash.com/1600x500/?technology,developer)
-
----
-
-## 🚀 About Me  
-🔹 Passionate **AI/ML Developer** & **Full-Stack Enthusiast**  
-🔹 Building AI-Powered Solutions 🚀  
-🔹 **Flutter | Blockchain | Cybersecurity** 💻  
-🔹 Open to **collaborations & new challenges** 🤝  
+<h1 align="center">Om Chauhan 👾</h1>
+<h3 align="center">AI Developer | Cyber Security Enthusiast | Blockchain Innovator</h3>
 
 ---
 
-## 🔥 Tech Stack & Tools  
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=ethereum&logoColor=white)  
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)  
+### 🚀 About Me:
+🔹 Passionate about **AI/ML, Cybersecurity, and Blockchain.**  
+🔹 Love **building futuristic projects** that make an impact.  
+🔹 Always learning & pushing boundaries.  
 
 ---
 
-## 📌 Featured Projects  
-### 🔹 [FoodBridge](https://github.com/omm-prog/FoodBridge)  
-🛠 **Tech:** Flutter, Firebase, Google Maps API  
-🎯 **Description:** A food donation platform that connects donors & NGOs, ensuring surplus food is donated efficiently. 
+### 🔥 Tech Stack:
 
-### 🔹 [Advait AI - Mock Interview System](https://github.com/omm-prog/AdvaitAI)  
-🛠 **Tech:** React, Python, InsightFace, Gemini API  
-🎯 **Description:** AI-powered interview system that analyzes speech, facial expressions, and posture to provide feedback.  
-
-### 🔹 [Virtual CA](https://github.com/omm-prog/VirtualCA)  
-🛠 **Tech:** Web, AI, Automation  
-🎯 **Description:** Automating daily Chartered Accountant tasks using AI-powered solutions.  
+**💻 Languages:** Python, JavaScript, Dart, Solidity, C++  
+**🧠 AI/ML:** TensorFlow, OpenCV, InsightFace, ArcFace  
+**🔥 Cybersecurity:** Kali Linux, Penetration Testing, XAI  
+**⚡ Blockchain:** Smart Contracts, Solidity, Escrow Systems  
+**🌐 Web & App Dev:** Flask, React.js, Flutter, Firebase, MySQL  
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omm-prog&theme=tokyonight&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omm-prog&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omm-prog&layout=compact&theme=tokyonight)  
+### 🛠️ Projects:
+#### 🚀 Advait AI (Mock Interview System)
+- **Real-time Speech Recognition** (No manual recording)
+- **Facial Expression & Posture Analysis** (InsightFace + ArcFace)
+- **AI-powered Questioning** (Skill-based dynamic questions)
+- **Project & Course Recommendations** (Gemini API)
+
+#### ♻️ Food & Waste Management System
+- **NGO & Donor Role-based System**
+- **Real-time Food Donation Alerts** (Expanding radius logic)
+- **Blockchain-based Donation Campaigns** (Escrow System)
+- **Composting Suggestions for Unclaimed Food**
+
+#### 🛡️ Face-Swap Deepfake Detection
+- **CNN + RNN + LSTM Hybrid Model**
+- **XAI for Transparency in Decision Making**
+- **Adaptive Learning for Real-time Deepfake Detection**
+- **Web-based Dashboard for Analysis**
 
 ---
 
-## 🌐 Connect with Me  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omm-prog)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-chauhan/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/omm_prog)  
+### 📈 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omm-prog&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omm-prog&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-### 🚀 "Keep Building, Keep Innovating!"
+### 📫 Connect With Me:
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omm-prog) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff4757?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+
+---
+
+**⚡ "Hack the future, build the impossible!" ⚡**
