@@ -34,24 +34,27 @@ I specialize in **AI/ML, Blockchain, Flutter, and Cybersecurity**, but mostly, I
 🏆 **Most Used Phrase:** "Why isn't this working?!" 😩  
 ---
 
-## 🔥 Cool Add-ons:
+## 🔥 Cool Add-ons  
 
-🎯 **Current Mission:** Teaching my AI to laugh at my jokes 🤖😂 (Right now, it just stares at me blankly.)
-
+🎯 **Current Mission:**  
+- Teaching my AI to laugh at my jokes 🤖😂 (Right now, it just stares at me blankly.)  
+  
 📊 **GitHub Streak & Top Languages:**  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=omm-prog&theme=tokyonight" alt="GitHub Streak">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omm-prog&layout=compact&theme=tokyonight" alt="Top Languages">  
-</p>
+</p>  
 
 🏆 **GitHub Trophies:**  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=omm-prog&theme=tokyonight&no-bg=true&no-frame=true" alt="GitHub Trophies">
-</p>
+</p>  
 
-🏆 **Most Used Phrase:** "Why isn't this working?!" 😩  
+💬 **Most Used Phrase:**  
+*"Why isn't this working?!"* 😩  
 
-📍 **Location:** Probably fixing a bug… or making a new one 🐛  
+📍 **Current Location:**  
+Probably fixing a bug… or creating a new one 🐛 
 ---
 
 ## 📫 How to Summon Me:
