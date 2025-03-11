@@ -30,7 +30,6 @@ I specialize in **AI/ML, Blockchain, Flutter, and Cybersecurity**, but mostly, I
 - ☕ **Code fueled by caffeine** and occasional power naps 😴
 - 🤖 **AI might take over, but I'll make sure it respects me first**
 - 🔥 **Stack Overflow deserves half my salary**
-- 🎵 **Coding with Lo-Fi beats is the ultimate productivity hack**
 - 🌍 **Dreaming of building AI that saves the world… or at least fixes my bugs automatically**
 
 ---
