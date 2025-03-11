@@ -1,4 +1,4 @@
-![MasterHead]((https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=790b7611wlnt4qtsicd3u2fivxe9sm17883ebqalnibp17aw&ep=v1_gifs_search&rid=giphy.gif&ct=g))
+![MasterHead]([https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=790b7611wlnt4qtsicd3u2fivxe9sm17883ebqalnibp17aw&ep=v1_gifs_search&rid=giphy.gif&ct=g])
 
 <h1 align="center">Om Chauhan 👾</h1>
 <h3 align="center">AI Developer | Cyber Security Enthusiast | Blockchain Innovator</h3>
