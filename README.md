@@ -1,10 +1,13 @@
 # 🚀 Om Chauhan - The Code Alchemist
 
 <p align="center">
-  <img src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="650px">
+  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="650px">
 </p>
+<!-- <p align="center"> -->
+<!--   <img src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="500px" ![MasterHead](https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif)> -->
+<!-- </p>/ -->
 
-![MasterHead](https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif)
+
 
 ## 🧐 Who Am I?
 👋 Hey there! I'm **Om Chauhan**, a digital sorcerer who turns coffee into **code**, bugs into **features**, and AI models into **existential crises**. 🚀
@@ -40,7 +43,7 @@ I specialize in **AI/ML, Blockchain, Flutter, and Cybersecurity**, but mostly, I
 
 ## 📫 How to Summon Me:
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omm-prog)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#) *(Add your link)*  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/om-chauhan-152a80256?trk=public_post-text)  
 📧 **Email:** omchauhan2026@gmail.com
 
 ---
