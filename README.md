@@ -101,9 +101,9 @@ const omChauhan = {
 <img src="https://github-readme-stats.vercel.app/api?username=omchauhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="Om's GitHub Stats" width="49%">
 
 ### 💻 **Language Distribution**
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=advaitdongre&show_icons=true&locale=en&layout=compact" alt="advaitdongre" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omm-prog&show_icons=true&locale=en&layout=compact" alt="omm-prog" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=advaitdongre&show_icons=true&locale=en" alt="advaitdongre" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=omm-prog&show_icons=true&locale=en" alt="omm-prog" />
 
 ### 🏆 **GitHub Achievements**
 <img src="https://github-profile-trophy.vercel.app/?username=omchauhan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies">
