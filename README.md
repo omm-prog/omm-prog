@@ -41,8 +41,7 @@ I specialize in **AI/ML, Blockchain, Flutter, and Cybersecurity**, but mostly, I
   
 📊 **GitHub Streak & Top Languages:**  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=omm-prog&theme=tokyonight" alt="GitHub Streak">  
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omm-prog&show_icons=true&locale=en" alt="omm-prog" /></p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=omm-prog&theme=tokyonight" alt="GitHub Streak"> 
 </p>  
 
 🏆 **GitHub Trophies:**  
