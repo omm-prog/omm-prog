@@ -2,7 +2,8 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=120&lines=Full+Stack+Sorcerer+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;AI%2FML+%7C+Blockchain+%7C+Cybersecurity;Turning+Ideas+into+Reality+%F0%9F%92%BB%E2%9C%A8)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=27&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=false&width=640&height=120&lines=def+developer()%3A+return+%22Full+Stack%22;skills+%3D+%5B%22Web+Dev%22%2C+%22Cybersecurity%22%5D;print(%22Secure+Code+%3D+Better+Code%22)+%F0%9F%94%92)
+
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500">
 
