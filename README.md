@@ -1,10 +1,13 @@
-# 🚀 Om Chauhan - The Code Alchemist
+# 🚀 Om Chauhan - Code Alchemist & Digital Wizard
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Digital+Sorcerer+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;Turning+Coffee+into+Code+%E2%98%95%E2%9E%A1%EF%B8%8F%F0%9F%92%BB;AI%2FML+%7C+Blockchain+%7C+Flutter+%7C+Cybersecurity)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=120&lines=Full+Stack+Sorcerer+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;AI%2FML+%7C+Blockchain+%7C+Flutter;Turning+Ideas+into+Reality+%F0%9F%92%BB%E2%9C%A8)
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-ff6b6b?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/omchauhan)
+[![Email](https://img.shields.io/badge/Let's%20Connect-00D9FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omchauhan2026@gmail.com)
 
 </div>
 
@@ -13,17 +16,24 @@
 ## 🧐 Who Am I?
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="150">
 </div>
 
 > *"Any sufficiently advanced technology is indistinguishable from magic"* - Arthur C. Clarke
 
-👋 Hey there! I'm **Om Chauhan**, a digital sorcerer who transforms:
-- ☕ **Coffee** → **Code** 
-- 🐛 **Bugs** → **Features**
-- 🤖 **AI Models** → **Existential Crises**
+Hey there! 👋 I'm **Om Chauhan**, a passionate developer who transforms caffeine into code and dreams into digital reality. I specialize in **AI/ML, Blockchain, Flutter, and Cybersecurity** - basically, I'm fluent in multiple programming languages and one human language (still working on that one! 😅).
 
-🚀 I specialize in **AI/ML, Blockchain, Flutter, and Cybersecurity**, but mostly, I specialize in **googling errors like a pro**. 🕵️♂️
+```javascript
+const omChauhan = {
+    location: "Debugging the Matrix 🌐",
+    education: "Computer Science & Engineering",
+    currentStatus: "Caffeinated and Coding ☕",
+    languages: ["Python", "JavaScript", "Dart", "Solidity", "C++"],
+    expertise: ["AI/ML", "Blockchain", "Mobile Dev", "Cybersecurity"],
+    hobbies: ["Building cool stuff", "Breaking code", "Fixing it again"],
+    lifePhilosophy: "If it works, don't touch it. If it doesn't, blame the compiler!"
+};
+```
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
@@ -31,7 +41,7 @@
 
 ---
 
-## 🛠️ Tech Arsenal - My Weapons of Choice
+## 🛠️ Tech Arsenal & Skills
 
 <div align="center">
 
@@ -41,35 +51,41 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 🤖 **AI/ML & Data Science**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### 🔗 **Blockchain & Web3**
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![Solidity](https://img.shields.io/badge/Smart_Contracts-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![MetaMask](https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white)
 
-### 🌐 **Web & Mobile Development**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### 📱 **Mobile & Web Development**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🛡️ **Cybersecurity**
+### 🛡️ **Cybersecurity & Tools**
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
 
 ### ☁️ **Cloud & DevOps**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -83,132 +99,120 @@
 
 ---
 
-## 🎭 Fun Facts About The Code Wizard
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-### 🔥 **The Debugging Athlete**
-🚀 **Debugging is my cardio**  
-*(because my code loves to keep me running 🏃♂️)*
-
-### ☕ **Caffeine-Powered Coding**
-**Fueled by coffee** and occasional power naps 😴  
-*Current coffee count: ∞*
-
-### 🤖 **AI Whisperer**
-**AI might take over, but I'll make sure it respects me first**  
-*Teaching machines manners since 2023*
-
-</td>
-<td align="center" width="50%">
-
-### 📚 **Stack Overflow VIP**
-🔥 **Stack Overflow deserves half my salary**  
-*They should give me equity at this point*
-
-### 🌍 **World-Saving Dreams**
-**Building AI that saves the world**  
-*...or at least fixes my bugs automatically*
-
-### 😩 **The Universal Developer Mantra**
-🏆 **Most Used Phrase:**  
-*"Why isn't this working?!"*
-
-</td>
-</tr>
-</table>
-
----
-
-## 🔥 GitHub Analytics & Achievements
+## 🔥 GitHub Analytics & Performance
 
 <div align="center">
 
-### 📊 **GitHub Stats**
-<img src="https://github-readme-stats.vercel.app/api?username=omchauhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="Om's GitHub Stats" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=omchauhan&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="Om's GitHub Streak" width="48%">
+### 📊 **GitHub Statistics**
+<img src="https://github-readme-stats.vercel.app/api?username=omchauhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="Om's GitHub Stats" width="49%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=omchauhan&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="Om's GitHub Streak" width="49%">
 
-### 💻 **Most Used Languages**
+### 💻 **Language Distribution**
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omchauhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" width="50%">
 
-### 🏆 **GitHub Trophies**
+### 🏆 **GitHub Achievements**
 <img src="https://github-profile-trophy.vercel.app/?username=omchauhan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies">
 
-### 📈 **Contribution Graph**
+### 📈 **Contribution Activity**
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=omchauhan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph">
 
 </div>
 
 ---
 
-## 🎯 Current Missions & Goals
+## 🎯 What I'm Up To
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 </div>
 
-### 🚀 **Active Quests:**
-- 🤖 Teaching my AI to laugh at my jokes *(Right now, it just stares at me blankly)*
-- 🌍 Building the next generation of ethical AI systems
-- 🔐 Securing the digital world one vulnerability at a time
-- 📱 Creating Flutter apps that don't crash *(fingers crossed)*
-- ⛓️ Revolutionizing finance with blockchain technology
+### 🚀 **Current Projects & Learning:**
+- 🤖 **AI Ethics Research** - Building responsible AI systems that won't judge my coding style
+- 🌐 **DeFi Protocol** - Creating the next generation of decentralized finance tools
+- 📱 **Flutter Masterpiece** - Developing a cross-platform app that actually works on the first try
+- 🔐 **Security Auditing** - Making the digital world safer, one vulnerability at a time
+- 🧠 **Quantum Computing** - Because regular computing wasn't complex enough
 
-### 📍 **Current Status:**
-```javascript
-const om = {
-    location: "Probably fixing a bug... or creating a new one 🐛",
-    status: "Caffeinated and ready to code ☕",
-    currentlyLearning: ["Quantum Computing", "Advanced AI Ethics", "New debugging techniques"],
-    funFact: "I can debug in my sleep... literally had dreams about fixing code!"
-};
+### 💡 **Fun Developer Facts:**
+- ☕ **Coffee Dependency:** Currently running on version 4.2.0 (with caffeine patches)
+- 🐛 **Debugging Skills:** Can find bugs faster than I can create them (most days)
+- 🌙 **Night Owl:** Best code happens after midnight (and questionable decisions)
+- 📚 **Stack Overflow VIP:** They should probably give me equity at this point
+- 🎮 **Side Quest:** Teaching AI to understand my sense of humor (still loading...)
+
+---
+
+## 📊 Weekly Development Breakdown
+
+```text
+Python       ████████████████████████▓   85.2 %
+JavaScript   ████████████████▓░░░░░░░░░   68.4 %
+Flutter      ████████████▓░░░░░░░░░░░░░░   52.3 %
+Solidity     ████████▓░░░░░░░░░░░░░░░░░░   38.7 %
+DevOps       ██████▓░░░░░░░░░░░░░░░░░░░░   25.1 %
+Coffee       ████████████████████████▓   99.9 %
 ```
 
 ---
 
-## 📫 Summon The Code Wizard
+## 🌟 Featured Projects
 
 <div align="center">
 
-### 🌐 **Connect With Me**
+### 🎨 **Project Showcase Coming Soon!**
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="300">
+
+*Currently cooking up some amazing projects that will blow your mind! 🧠💥*
+
+</div>
+
+---
+
+## 📱 Let's Connect & Collaborate
+
+<div align="center">
+
+### 🌐 **Find Me Across The Internet**
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omchauhan2026@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/omchauhan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omchauhan)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/omchauhan)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omchauhan)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/omchauhan)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/omchauhan)
 
-### 📧 **Direct Contact**
+### 💬 **Quick Contact**
 ```bash
-$ echo "omchauhan2026@gmail.com" | mail -s "Let's Build Something Amazing!"
+# Send me a message
+$ echo "Hey Om! Let's build something amazing together!" | mail -s "Collaboration Request" omchauhan2026@gmail.com
+
+# Or just drop a DM
+$ git clone https://github.com/omchauhan && cd into-awesome-collaboration
 ```
 
-### 🚀 **Portfolio Status**
-![Coming Soon](https://img.shields.io/badge/Portfolio-Coming%20Soon%20🚀-orange?style=for-the-badge)
+### 🎯 **Open For:**
+- 🤝 **Collaborations** on AI/ML and Blockchain projects
+- 💼 **Freelance** opportunities
+- 🎓 **Mentoring** fellow developers
+- ☕ **Coffee chats** about technology and innovation
 
 </div>
 
 ---
 
-## ⚡ Words of Wisdom
+## 💭 Developer Wisdom & Philosophy
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
 
-### 💭 **Developer Philosophy**
+### 🎯 **Life Mantras**
+> *"First, solve the problem. Then, write the code."* - John Johnson
 
-> *"If it works, don't touch it.  
-> If it doesn't, blame the compiler."* 😆
+> *"Code is like humor. When you have to explain it, it's bad."* - Cory House
 
-### 🎯 **Life Motto**
-> *"Code is poetry, bugs are plot twists,  
-> and coffee is the muse that makes it all possible."* ☕✨
+> *"The best error message is the one that never shows up."* - Thomas Fuchs
+
+### ☕ **Personal Philosophy**
+> *"Code is poetry written in logic, bugs are plot twists that keep life interesting, and coffee is the magical elixir that transforms ideas into reality."*
 
 </div>
 
@@ -216,17 +220,19 @@ $ echo "omchauhan2026@gmail.com" | mail -s "Let's Build Something Amazing!"
 
 <div align="center">
 
-### 🙏 **Thanks for Stopping By!**
+### 🙏 **Thanks for Visiting My Digital Playground!**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-**Now go write some *bug-free* code... if that even exists!** 🐞🔥
+**Remember: Every expert was once a beginner. Every pro was once an amateur. Every icon was once an unknown.** 🌟
+
+*Keep coding, keep learning, and keep being awesome!* 🚀✨
 
 ---
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=omchauhan.omchauhan)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=omchauhan.omchauhan&color=00d9ff)
 ![Profile Views](https://komarev.com/ghpvc/?username=omchauhan&color=00D9FF&style=for-the-badge)
 
-*Made with ❤️ and lots of ☕ by Om Chauhan*
+**Made with ❤️, lots of ☕, and a sprinkle of ✨ magic by Om Chauhan**
 
 </div>
