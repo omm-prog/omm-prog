@@ -126,12 +126,10 @@ const omChauhan = {
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 </div>
 
-### 🚀 **Current Projects & Learning:**
-- 🤖 **AI Ethics Research** - Building responsible AI systems that won't judge my coding style
-- 🌐 **DeFi Protocol** - Creating the next generation of decentralized finance tools
-- 📱 **Flutter Masterpiece** - Developing a cross-platform app that actually works on the first try
-- 🔐 **Security Auditing** - Making the digital world safer, one vulnerability at a time
-- 🧠 **Quantum Computing** - Because regular computing wasn't complex enough
+### 🚀 Current Projects:
+🏗️ **FoundryHub** - Startup collaboration platform connecting founders, freelancers, and investors  
+📜 **LogTracer** - Python tool for analyzing server logs to detect security threats  
+💰 **DonationTrack** - Transparent blockchain-based crowdfunding platform
 
 ### 💡 **Fun Developer Facts:**
 - ☕ **Coffee Dependency:** Currently running on version 4.2.0 (with caffeine patches)
