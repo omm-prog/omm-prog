@@ -65,6 +65,10 @@ Probably fixing a bug… or creating a new one 🐛
   <a href="mailto:omchauhan2026@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omm-prog&show_icons=true&locale=en&layout=compact" alt="omm-prog" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omm-prog&show_icons=true&locale=en" alt="omm-prog" /></p>
+
 📧 **Email:** omchauhan2026@gmail.com  
 🌐 **Portfolio:** [Coming Soon 🚀]  
 
