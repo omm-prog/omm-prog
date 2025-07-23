@@ -80,12 +80,6 @@ const omChauhan = {
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
 
-### ☁️ **Cloud & DevOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -105,18 +99,14 @@ const omChauhan = {
 
 ### 📊 **GitHub Statistics**
 <img src="https://github-readme-stats.vercel.app/api?username=omchauhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="Om's GitHub Stats" width="49%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=omchauhan&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="Om's GitHub Streak" width="49%">
 
 ### 💻 **Language Distribution**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omchauhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" width="50%">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=advaitdongre&show_icons=true&locale=en&layout=compact" alt="advaitdongre" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=advaitdongre&show_icons=true&locale=en" alt="advaitdongre" />
 
 ### 🏆 **GitHub Achievements**
 <img src="https://github-profile-trophy.vercel.app/?username=omchauhan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies">
-
-### 📈 **Contribution Activity**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omchauhan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph">
-
-</div>
 
 ---
 
@@ -146,7 +136,7 @@ const omChauhan = {
 Python       ████████████████████████▓   85.2 %
 JavaScript   ████████████████▓░░░░░░░░░   68.4 %
 Flutter      ████████████▓░░░░░░░░░░░░░░   52.3 %
-Solidity     ████████▓░░░░░░░░░░░░░░░░░░   38.7 %
+Solidity     ████████▓░░░░░░░░░░░░░░░░░░   20.7 %
 DevOps       ██████▓░░░░░░░░░░░░░░░░░░░░   25.1 %
 Coffee       ████████████████████████▓   99.9 %
 ```
