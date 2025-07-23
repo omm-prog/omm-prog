@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=120&lines=Full+Stack+Sorcerer+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;AI%2FML+%7C+Blockchain+%7C+Flutter;Turning+Ideas+into+Reality+%F0%9F%92%BB%E2%9C%A8)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=120&lines=Full+Stack+Sorcerer+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;AI%2FML+%7C+Blockchain+%7C+Cybersecurity;Turning+Ideas+into+Reality+%F0%9F%92%BB%E2%9C%A8)
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500">
 
@@ -117,9 +117,9 @@ const omChauhan = {
 </div>
 
 ### 🚀 Current Projects:
-🏗️ **FoundryHub** - Startup collaboration platform connecting founders, freelancers, and investors  
-📜 **LogTracer** - Python tool for analyzing server logs to detect security threats  
-💰 **DonationTrack** - Transparent blockchain-based crowdfunding platform
+- 🏗️ **FoundryHub** - Startup collaboration platform connecting founders, freelancers, and investors  
+- 📜 **LogTracer** - Python tool for analyzing server logs to detect security threats  
+- 💰 **DonationTrack** - Transparent blockchain-based crowdfunding platform
 
 ### 💡 **Fun Developer Facts:**
 - ☕ **Coffee Dependency:** Currently running on version 4.2.0 (with caffeine patches)
