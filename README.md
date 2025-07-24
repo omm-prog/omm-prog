@@ -7,7 +7,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-ff6b6b?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/omchauhan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-4CAF50?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-om-ebon.vercel.app/)
 [![Email](https://img.shields.io/badge/Let's%20Connect-00D9FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omchauhan2026@gmail.com)
 
 </div>
