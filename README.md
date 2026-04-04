@@ -2,17 +2,13 @@
 
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,20:1a0533,50:6b21a8,80:a855f7,100:e9d5ff&height=150&section=header&text=&fontSize=0" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=600&height=70&lines=OM+CHAUHAN" alt="Name"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2000&pause=500&color=C4B5FD&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=25&lines=FULL-STACK+%C2%B7+AI%2FML+%C2%B7+CLOUD+%C2%B7+CYBERSECURITY" alt="Subtitle"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,25:1a0533,50:6b21a8,75:a855f7,100:e9d5ff&height=280&section=header&text=OM%20CHAUHAN&fontSize=75&fontColor=e9d5ff&animation=fadeIn&fontAlignY=45&desc=FULL-STACK%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20CLOUD%20%E2%80%A2%20CYBERSECURITY&descAlignY=68&descSize=15&descColor=c4b5fd" width="100%"/>
 
 <br/>
 
 <!-- ═══════════════════ TERMINAL ANIMATION ═══════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=800&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=80&lines=%24+whoami;%E2%94%94%E2%94%80%E2%94%80+Om+Chauhan+%40+Mumbai+%F0%9F%87%AE%F0%9F%87%B3;%24+cat+status.txt;%E2%94%94%E2%94%80%E2%94%80+OPEN+TO+WORK+%E2%80%94+3x+Hackathon+Champion+%F0%9F%8F%86)](https://github.com/omm-prog)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=620&height=30&lines=%E2%96%B8+whoami+%2F%2F+Om+Chauhan+%40+Mumbai+%F0%9F%87%AE%F0%9F%87%B3;%E2%96%B8+status+%2F%2F+OPEN+TO+WORK+%E2%80%94+shipping+fast+%F0%9F%9A%80;%E2%96%B8+wins+%2F%2F+3x+hackathon+champion+%F0%9F%8F%86)](https://github.com/omm-prog)
 
 <br/>
 
@@ -208,20 +204,6 @@ const om = {
 </td>
 <td width="50%" valign="top">
 
-### ⚡ AI WORKFLOW AUTOMATION
-> Cloud-based AI process automation (IBM Cloud)
-
-- 🤖 Built @ Edunet / AICTE internship
-- 📈 **↑ 30% process efficiency**
-- ☁️ Enterprise-grade on IBM Cloud
-
-`IBM Cloud` `AI Integration`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🔍 EMAIL FORENSICS PLATFORM
 > Production-grade phishing & spoofing detector
 
@@ -230,20 +212,6 @@ const om = {
 - 📋 Forensic evidence reports
 
 `FastAPI` `React` `Python`
-
-[📂 Repo](https://github.com/omm-prog)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 VIDEO RECOMMENDER
-> Full-stack hybrid recommendation engine
-
-- 🧠 Content + Collaborative filtering
-- ⚡ FAISS vector similarity search
-- 🔄 Cold-start handling
-
-`FastAPI` `React` `PostgreSQL`
 
 [📂 Repo](https://github.com/omm-prog)
 
@@ -314,11 +282,7 @@ const om = {
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omm-prog/omm-prog/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omm-prog/omm-prog/output/github-snake.svg" />
-  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/omm-prog/omm-prog/output/github-snake-dark.svg" width="100%" />
-</picture>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
 </div>
 
