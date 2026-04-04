@@ -35,7 +35,7 @@
 <!-- ═══════════════════ TROPHIES ═══════════════════ -->
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=omm-prog&theme=discord&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=omm-prog&theme=onestar&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10" width="95%"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
@@ -83,10 +83,10 @@ const om = {
 <br /><sub><code>LangChain</code> <code>GPT</code> <code>Python</code></sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/🎯-1a0533?style=for-the-badge&logoColor=a855f7" width="60"/>
-<br/><b>Recommendation Engine</b>
-<br/><sub>Hybrid ML-powered suggestions</sub>
-<br/><sub><code>FAISS</code> <code>TF-IDF</code> <code>PostgreSQL</code></sub>
+<img src="https://img.shields.io/badge/🛡️-1a0533?style=for-the-badge&logoColor=a855f7" width="60"/>
+<br/><b>NetTrap Honeypot</b>
+<br/><sub>Intrusion detection & trapping</sub>
+<br/><sub><code>Python</code> <code>Socket</code> <code>Logging</code></sub>
 </td>
 </tr>
 </table>
