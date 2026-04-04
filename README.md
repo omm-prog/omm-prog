@@ -261,11 +261,11 @@ const om = {
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=omm-prog&hide_border=true&background=0d1117&ring=a855f7&fire=f472b6&currStreakLabel=a855f7&sideLabels=c4b5fd&dates=6b21a8&currStreakNum=e9d5ff&sideNums=e9d5ff" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=omm-prog&hide_border=true&background=0d1117&ring=a855f7&fire=f472b6&currStreakLabel=a855f7&sideLabels=c4b5fd&dates=6b21a8&currStreakNum=e9d5ff&sideNums=e9d5ff" width="60%"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omm-prog&bg_color=0d1117&color=a855f7&line=6b21a8&point=f472b6&area=true&area_color=2d1b69&hide_border=true&custom_title=%F0%9F%93%88%20Contribution%20Timeline" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omm-prog&bg_color=0d1117&color=a855f7&line=6b21a8&point=f472b6&area=true&area_color=2d1b69&hide_border=true" width="95%"/>
 
 </div>
 
