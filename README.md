@@ -147,18 +147,7 @@ const om = {
 
 <h2>🚀 Featured Projects</h2>
 
-<div align="center">
 
-<a href="https://foundryhub-prototype.vercel.app/">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=omm-prog&repo=FoundryHub&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=c084fc&text_color=c4b5fd" width="49%"/>
-</a>
-<a href="https://github.com/omm-prog">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=omm-prog&repo=NetTrap-Honeypot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=c084fc&text_color=c4b5fd" width="49%"/>
-</a>
-
-</div>
-
-<br/>
 
 <table>
 <tr>
