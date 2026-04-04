@@ -32,10 +32,14 @@
 <!-- ═══════════════════ GLOWING SEPARATOR ═══════════════════ -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-<!-- ═══════════════════ TROPHIES ═══════════════════ -->
+<!-- ═══════════════════ QUICK STATS ═══════════════════ -->
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=omm-prog&theme=onestar&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10" width="95%"/>
+
+![3x Champion](https://img.shields.io/badge/🏆_3x_HACKATHON_CHAMPION-6b21a8?style=for-the-badge&labelColor=0d1117)&nbsp;
+![B.E. CSE](https://img.shields.io/badge/🎓_B.E._CSE_2022--2026-a855f7?style=for-the-badge&labelColor=0d1117)&nbsp;
+![Mumbai](https://img.shields.io/badge/📍_MUMBAI,_INDIA-c084fc?style=for-the-badge&labelColor=0d1117)
+
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
