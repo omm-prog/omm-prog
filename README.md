@@ -1,144 +1,171 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=120&section=header" width="100%"/>
-
-# OM CHAUHAN
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full-Stack+%26+AI+Developer;Hackathon+Winner+%F0%9F%8F%86;Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020817,50:0f172a,100:020817&height=200&section=header&text=Om%20Chauhan&fontSize=60&fontColor=38bdf8&animation=fadeIn&fontAlignY=55&desc=Full-Stack%20%E2%80%A2%20AI%20%E2%80%A2%20Cybersecurity&descAlignY=75&descSize=16&descColor=94a3b8" width="100%"/>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/◈_Portfolio-00D9FF?style=for-the-badge&logoColor=black)](https://portfolio-om-ebon.vercel.app/)
-[![Email](https://img.shields.io/badge/◈_Email-FF4C60?style=for-the-badge&logoColor=white)](mailto:omchauhan2026@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/◈_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/om-chauhan-152a80256)
-[![GitHub](https://img.shields.io/badge/◈_GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/omm-prog)
+<a href="https://portfolio-om-ebon.vercel.app/">
+  <img src="https://img.shields.io/badge/-portfolio-020817?style=for-the-badge&logo=vercel&logoColor=38bdf8&labelColor=0f172a" />
+</a>
+<a href="mailto:omchauhan2026@gmail.com">
+  <img src="https://img.shields.io/badge/-omchauhan2026@gmail.com-020817?style=for-the-badge&logo=gmail&logoColor=f43f5e&labelColor=0f172a" />
+</a>
+<a href="https://linkedin.com/in/om-chauhan-152a80256">
+  <img src="https://img.shields.io/badge/-linkedin-020817?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=0f172a" />
+</a>
+<a href="https://github.com/omm-prog">
+  <img src="https://img.shields.io/badge/-omm--prog-020817?style=for-the-badge&logo=github&logoColor=e2e8f0&labelColor=0f172a" />
+</a>
+
+<br/><br/>
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  > whoami                                                        │
+│                                                                  │
+│  name        : Om Chauhan                                        │
+│  location    : Mumbai, India                                     │
+│  education   : B.E. Computer Science · University of Mumbai      │
+│  class       : 2022 – 2026                                       │
+│  speciality  : Full-Stack Dev · AI/ML · Cloud · Cybersecurity    │
+│  status      : [ OPEN TO WORK ] Internship / Full-time           │
+│  mission     : Ship fast. Break things. Fix them faster.         │
+└─────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
-<br/>
-
-```ts
-const om: Developer = {
-  location : "Mumbai, India 🇮🇳",
-  education : "B.E. Computer Science · University of Mumbai · 2022–2026",
-  focus     : ["Full-Stack Dev", "AI/ML", "Cloud Automation", "Cybersecurity"],
-  status    : "Open to internship & full-time roles 🚀",
-  contact   : "omchauhan2026@gmail.com"
-};
-```
-
 ---
 
-## ⚡ Tech Stack
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px"/>
+
+## `~/stack`
 
 <div align="center">
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=00599C)
-![Solidity](https://img.shields.io/badge/Solidity-0d1117?style=flat-square&logo=solidity&logoColor=white)
-
-**Frameworks & Tools**
-
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=43853D)
-![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
-![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28)
-![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-0d1117?style=flat-square&logo=ibm&logoColor=1261FE)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
-
-**Core Areas**
-
-![GenAI](https://img.shields.io/badge/Generative_AI-1a1a2e?style=flat-square&logoColor=white)
-![Agents](https://img.shields.io/badge/AI_Agents-1a1a2e?style=flat-square&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud_Automation-1a1a2e?style=flat-square&logoColor=white)
-![Security](https://img.shields.io/badge/Cybersecurity-1a1a2e?style=flat-square&logoColor=white)
+| Layer | Technologies |
+|-------|-------------|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-020817?style=flat-square&logo=python&logoColor=3b82f6) ![JavaScript](https://img.shields.io/badge/JS-020817?style=flat-square&logo=javascript&logoColor=eab308) ![Java](https://img.shields.io/badge/Java-020817?style=flat-square&logo=openjdk&logoColor=f97316) ![C](https://img.shields.io/badge/C-020817?style=flat-square&logo=c&logoColor=60a5fa) ![Solidity](https://img.shields.io/badge/Solidity-020817?style=flat-square&logo=solidity&logoColor=94a3b8) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-020817?style=flat-square&logo=react&logoColor=38bdf8) ![Tailwind](https://img.shields.io/badge/Tailwind-020817?style=flat-square&logo=tailwindcss&logoColor=06b6d4) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-020817?style=flat-square&logo=nodedotjs&logoColor=22c55e) ![Flask](https://img.shields.io/badge/Flask-020817?style=flat-square&logo=flask&logoColor=e2e8f0) |
+| **Cloud & DB** | ![Firebase](https://img.shields.io/badge/Firebase-020817?style=flat-square&logo=firebase&logoColor=fbbf24) ![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-020817?style=flat-square&logo=ibmcloud&logoColor=60a5fa) ![SQL](https://img.shields.io/badge/SQL-020817?style=flat-square&logo=mysql&logoColor=38bdf8) |
+| **DevOps** | ![Git](https://img.shields.io/badge/Git-020817?style=flat-square&logo=git&logoColor=f97316) ![Linux](https://img.shields.io/badge/Linux-020817?style=flat-square&logo=linux&logoColor=fde047) ![VSCode](https://img.shields.io/badge/VSCode-020817?style=flat-square&logo=visualstudiocode&logoColor=38bdf8) |
+| **Domains** | `Generative AI` `AI Agents` `Cloud Automation` `Cybersecurity` `REST APIs` |
 
 </div>
 
 ---
 
-## 🚀 Projects
+## `~/projects`
 
+<div align="center">
 <table>
+
 <tr>
-<td width="50%" valign="top">
+<td align="left" width="50%">
 
-### 🏗️ FoundryHub
-**Startup Collaboration Platform**
+```
+◆ FOUNDRYHUB
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Startup collab platform connecting
+founders, investors & freelancers.
 
-`React` `Firebase` `Tailwind CSS`
+Live chat · Team mgmt · Doc sharing
+Auth · Onboarding · Real-time DB
 
-Connects founders, investors & freelancers with live chat, team management, and document sharing.
+↑ 40% user engagement
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+React · Firebase · Tailwind CSS
+```
 
-**↑ 40% user engagement**
-
-[→ Live Demo](https://foundryhub-prototype.vercel.app/) · [→ GitHub](https://github.com/omm-prog)
+**[→ Live](https://foundryhub-prototype.vercel.app/)** &nbsp;·&nbsp; **[→ Repo](https://github.com/omm-prog)**
 
 </td>
-<td width="50%" valign="top">
+<td align="left" width="50%">
 
-### 🗺️ NGO Logistics Tracker
-**Real-time Donation Dashboard**
+```
+◆ NGO LOGISTICS TRACKER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Real-time donation logistics dashboard
+for NGOs with map-based visualization.
 
-`Firebase` `Google Maps API`
+Route tracking · Notifications
+Firebase Realtime DB · Maps API
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Firebase · Google Maps API
+```
 
-Real-time dashboard for NGOs to visualize and optimize donation routes with map-based coordination.
-
-[→ GitHub](https://github.com/omm-prog)
+**[→ Repo](https://github.com/omm-prog)**
 
 </td>
 </tr>
+
 <tr>
-<td width="50%" valign="top">
+<td align="left" width="50%">
 
-### 🛡️ NetTrap Honeypot
-**Network Security Tool**
+```
+◆ NETTRAP HONEYPOT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Modular honeypot simulating vulnerable
+network services to catch intruders.
 
-`Python` `Socket` `Logging`
+Intrusion detection · Logging
+Alert system · Attack pattern analysis
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Python · Socket · Logging
+```
 
-Modular honeypot simulating vulnerable services to detect intrusions and log attack patterns.
-
-[→ GitHub](https://github.com/omm-prog)
+**[→ Repo](https://github.com/omm-prog)**
 
 </td>
-<td width="50%" valign="top">
+<td align="left" width="50%">
 
-### ☁️ AI Workflow Automation
-**IBM Cloud · Edunet / AICTE**
+```
+◆ AI WORKFLOW AUTOMATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Cloud-based AI automation tool built
+during internship at Edunet / AICTE.
 
-`IBM Cloud` `AI Integration`
-
-Cloud-based automation tool boosting internal process efficiency by **30%** — built during internship.
+Boosted process efficiency by 30%
+IBM SkillBuild · AI Integration
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+IBM Cloud · AI · Cloud Orchestration
+```
 
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
-## 🏆 Wins
+## `~/achievements`
 
 ```
-🥇  MegaHack 5.0  (2025)  ·  #1 of 80+ teams  ·  AI-driven enterprise solution
-🥇  Code-o-Fiesta           ·  Winner           ·  Full-stack AI app
-🥇  Ingenious — TechFest    ·  Winner           ·  Real-time analytics tool
+╔══════════════════════════════════════════════════════════════════╗
+║  🏆  MEGAHACK 5.0  ·  2025  ·  #1 / 80+ TEAMS                  ║
+║      AI-driven enterprise solution — took the top spot           ║
+╠══════════════════════════════════════════════════════════════════╣
+║  🏆  CODE-O-FIESTA  ·  WINNER                                   ║
+║      Full-stack AI app recognized for innovation                 ║
+╠══════════════════════════════════════════════════════════════════╣
+║  🏆  INGENIOUS · TECHFEST  ·  WINNER                            ║
+║      Real-time analytics tool automating manual insights         ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## 📊 GitHub Stats
+## `~/stats`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=omm-prog&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" width="49%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=omm-prog&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff" width="49%">
+<img src="https://github-readme-stats.vercel.app/api?username=omm-prog&show_icons=true&theme=github_dark&hide_border=true&bg_color=020817&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&ring_color=38bdf8" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=omm-prog&layout=compact&theme=github_dark&hide_border=true&bg_color=020817&title_color=38bdf8&text_color=94a3b8" width="49%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=omm-prog&theme=tokyonight&hide_border=true&background=0d1117&ring=00D9FF&fire=FF4C60&currStreakLabel=00D9FF" width="60%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=omm-prog&theme=github-dark-blue&hide_border=true&background=020817&ring=38bdf8&fire=f43f5e&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=475569" width="70%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omm-prog&bg_color=020817&color=38bdf8&line=1d4ed8&point=f43f5e&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -146,10 +173,8 @@ Cloud-based automation tool boosting internal process efficiency by **30%** — 
 
 <div align="center">
 
-**Open to Software Engineering & AI Development roles · Internship or Full-time**
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020817,50:0f172a,100:020817&height=100&section=footer&text=Open%20to%20opportunities%20%E2%80%94%20let%27s%20build%20something%20wild&fontSize=14&fontColor=475569&animation=fadeIn" width="100%"/>
 
-📍 Mumbai · 📞 +91 8356050096 · 🌐 English · Hindi · Gujarati · Marathi
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=80&section=footer" width="100%"/>
+`📍 Mumbai` &nbsp;·&nbsp; `📞 +91 8356050096` &nbsp;·&nbsp; `🌐 EN · HI · GU · MR`
 
 </div>
