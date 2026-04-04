@@ -256,8 +256,8 @@ const om = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=omm-prog&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=c084fc&text_color=c4b5fd&ring_color=a855f7&include_all_commits=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=omm-prog&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c4b5fd" width="36%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=omm-prog&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=c084fc&text_color=c4b5fd&ring_color=a855f7&include_all_commits=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=omm-prog&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c4b5fd" width="42%"/>
 
 <br/>
 
