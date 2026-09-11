@@ -1,33 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,25:1a0533,50:6b21a8,75:a855f7,100:e9d5ff&height=280&section=header&text=OM%20CHAUHAN&fontSize=75&fontColor=e9d5ff&animation=fadeIn&fontAlignY=45&desc=BACKEND%20%E2%80%A2%20DATA%20ANALYTICS%20%E2%80%A2%20BUSINESS%20INTELLIGENCE&descAlignY=68&descSize=15&descColor=c4b5fd" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                        HERO                                -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,25:160b2b,50:6d28d9,75:a855f7,100:e9d5ff&height=300&section=header&text=OM%20CHAUHAN&fontSize=82&fontColor=ffffff&animation=fadeIn&fontAlignY=43&desc=BACKEND%20%E2%80%A2%20DATA%20%E2%80%A2%20BUILDING%20THINGS&descAlignY=67&descSize=16&descColor=d8b4fe" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=700&height=30&lines=%E2%96%B8+whoami+%2F%2F+Om+Chauhan+%40+Mumbai;%E2%96%B8+focus+%2F%2F+Backend+%2B+Data+Analytics;%E2%96%B8+build+%2F%2F+APIs+%2B+Data+Pipelines+%2B+BI;%E2%96%B8+wins+%2F%2F+3x+Hackathon+Champion)](https://github.com/omm-prog)
+<br>
 
-<br/>
+<!-- TERMINAL -->
 
-<a href="https://portfolio-om-ebon.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-a855f7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>&nbsp;
-
-<a href="mailto:omchauhan2026@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-f472b6?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>&nbsp;
-
-<a href="https://linkedin.com/in/om-chauhan-152a80256">
-<img src="https://img.shields.io/badge/LINKEDIN-6b21a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>&nbsp;
-
-<a href="https://github.com/omm-prog">
-<img src="https://img.shields.io/badge/GITHUB-1a0533?style=for-the-badge&logo=github&logoColor=a855f7"/>
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/%E2%9A%A1_OPEN_TO_WORK-22c55e?style=for-the-badge&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/BACKEND_%2B_DATA_ANALYTICS-a855f7?style=for-the-badge&labelColor=0d1117"/>
-
-</div>
+```text
+┌─────────────────────────────────────────────────────────────┐
+│  om@dev ~ $ whoami                                          │
+│                                                             │
+│  Om Chauhan                                                  │
+│  Computer Science Engineer                                  │
+│                                                             │
+│  $ focus --now                                               │
+│  Backend Engineering  •  Data Analytics  •  BI             │
+│                                                             │
+│  $ status                                                     │
+│  ● OPEN TO WORK                                              │
+│                                                             │
+│  $ motto                                                      │
+│  Build → Break → Learn → Ship                                │
+└─────────────────────────────────────────────────────────────┘
