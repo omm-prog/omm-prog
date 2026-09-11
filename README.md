@@ -1,12 +1,11 @@
 <h1 align="center">Hi there, I'm Om Chauhan 👋</h1>
 
-<h3 align="center">Backend Developer | Data Analyst | Business Intelligence Enthusiast</h3>
+<h3 align="center">Backend Developer | Data Analytics & Business Intelligence</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/om-chauhan-152a80256"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://portfolio-om-ebon.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:omchauhan2026@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/Phone-+91_8356050096-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
 </p>
 
 <p align="center">
@@ -17,10 +16,10 @@
 
 ### 🧑‍💻 About Me
 
-I'm a **Computer Science Engineering graduate (2022–2026)** from the **University of Mumbai**, based in Mumbai, India. I sit at the intersection of **software engineering** and **data** — equally comfortable building backend systems and APIs as I am designing ETL pipelines and turning raw data into actionable business intelligence.
+I'm a **Computer Engineer** — a Computer Science Engineering graduate (2022–2026) from the **University of Mumbai**, based in Mumbai, India. I build backend systems that actually run in production, and I build the pipelines and dashboards that tell you whether they're working. Backend development and data analytics aren't two separate hats for me — I ship APIs and databases, then turn the data flowing through them into real business insight.
 
-- 🔭 I build **full-stack backend systems** with Node.js, Express.js, and REST APIs
-- 📊 I design **end-to-end data pipelines**, star-schema models, and Power BI dashboards
+- 🔧 I build **production-grade backend systems** with Node.js, Express.js, REST APIs, MongoDB & MySQL
+- 📊 I design **end-to-end data pipelines**, star-schema models, and Power BI dashboards that drive decisions
 - 🏆 **3× Hackathon Winner** — MegaHack 5.0, Code-o-Fiesta, and Ingenious (TechFest)
 - 🌱 Currently sharpening skills in PySpark, advanced DAX, and scalable backend architecture
 - 💬 Ask me about Node.js, MongoDB/MySQL, Power BI, Python data pipelines, or REST API design
@@ -64,7 +63,9 @@ I'm a **Computer Science Engineering graduate (2022–2026)** from the **Univers
 
 ### 🚀 Featured Projects
 
-#### 📦 [Enterprise Retail Analytics](https://github.com/omm-prog/enterprise-retail-analytics)
+> A mix of **backend systems** I've engineered and **data/analytics pipelines** I've built end-to-end.
+
+#### 📦 [Enterprise Retail Analytics](https://github.com/omm-prog/enterprise-retail-analytics) `Data Analytics`
 End-to-end retail analytics pipeline built with **Python & PySpark**, transforming raw transactional data into analytics-ready fact and dimension tables.
 - Performed data-quality validation and business-rule analysis across **12 interconnected datasets**
 - Designed a **star-schema model** and integrated it with **MySQL**
@@ -75,7 +76,7 @@ End-to-end retail analytics pipeline built with **Python & PySpark**, transformi
 
 ---
 
-#### 🛒 [NovaCart E-Commerce Analytics & Insights](https://github.com/omm-prog/NovaCart-ECommerce-Analytics-Insights)
+#### 🛒 [NovaCart E-Commerce Analytics & Insights](https://github.com/omm-prog/NovaCart-ECommerce-Analytics-Insights) `Data Analytics`
 Interactive **Power BI** dashboard suite analyzing e-commerce sales, profitability, customers, products, regions, and time-based trends.
 - Built interactive **KPI cards, filters, and trend visualizations**
 - Used **Power Query** for data transformation and **DAX** for advanced calculated measures
@@ -85,7 +86,7 @@ Interactive **Power BI** dashboard suite analyzing e-commerce sales, profitabili
 
 ---
 
-#### 🚀 [FoundryHub](https://github.com/omm-prog/FoundryHub)
+#### 🚀 [FoundryHub](https://github.com/omm-prog/FoundryHub) `Backend Development`
 A startup collaboration platform connecting **founders and investors**.
 - Built authentication, onboarding, and collaboration workflows
 - Integrated **Firebase** for backend services
@@ -95,7 +96,7 @@ A startup collaboration platform connecting **founders and investors**.
 
 ---
 
-#### 🕵️ NetTrap Honeypot
+#### 🕵️ [NetTrap Honeypot](https://github.com/omm-prog/NetTrap-Honeypot) `Backend / Security`
 A **Python-based network security tool** that simulates vulnerable services to detect and analyze intrusion attempts.
 - Logs malicious traffic and analyzes attack patterns
 - Simulates vulnerable services to bait and trace attackers
@@ -104,8 +105,12 @@ A **Python-based network security tool** that simulates vulnerable services to d
 
 ---
 
-#### 🔍 [CreatorPilot](https://github.com/omm-prog/CreatorPilot)
-Additional project showcasing full-stack and applied engineering work — check the repo for details.
+#### 🤖 [CreatorPilot](https://github.com/omm-prog/CreatorPilot) · [Live Demo](https://creatorpilot-agent.netlify.app/) `Backend / AI Agent`
+An **autonomous AI production agent** for YouTube creators, powered by **Google Gemini** and **Parallel Search**.
+- Adapts video production plans, schedules, and shot lists to real-world creator constraints — **budget, gear, time, and crew**
+- Uses AI-driven feasibility analysis to turn a creative idea into an executable production plan
+
+`Google Gemini` `AI Agents` `Parallel Search` `Production Automation`
 
 ---
 
