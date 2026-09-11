@@ -16,9 +16,9 @@
 
 ### 🧑‍💻 About Me
 
-I'm a **Computer Engineer** — a Computer Science Engineering graduate (2022–2026) from the **University of Mumbai**, based in Mumbai, India. I build backend systems that actually run in production, and I build the pipelines and dashboards that tell you whether they're working. Backend development and data analytics aren't two separate hats for me — I ship APIs and databases, then turn the data flowing through them into real business insight.
+I'm a **Computer Engineer** - a Computer Science Engineering graduate (2022–2026) from the **University of Mumbai**, based in Mumbai, India. I build backend systems that actually run in production, and I build the pipelines and dashboards that tell you whether they're working. Backend development and data analytics aren't two separate hats for me — I ship APIs and databases, then turn the data flowing through them into real business insight.
 
-- 🔧 I build **production-grade backend systems** with Node.js, Express.js, REST APIs, MongoDB & MySQL
+- 🔧 I build **backend applications and REST APIs** with Node.js, Express.js, MongoDB & MySQL
 - 📊 I design **end-to-end data pipelines**, star-schema models, and Power BI dashboards that drive decisions
 - 🏆 **3× Hackathon Winner** — MegaHack 5.0, Code-o-Fiesta, and Ingenious (TechFest)
 - 🌱 Currently sharpening skills in PySpark, advanced DAX, and scalable backend architecture
