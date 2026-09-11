@@ -135,12 +135,7 @@ A logistics tracking solution built to help NGOs manage and monitor supply chain
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omm-prog&show_icons=true&theme=radical&cache_seconds=86400" alt="Om's GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omm-prog&theme=radical" alt="Om's GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omm-prog&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" height="165"/>
 </p>
 
 ---
